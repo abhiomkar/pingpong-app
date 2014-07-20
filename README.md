@@ -1,4 +1,6 @@
-pingpong-app
-============
+Pingpong App
+------------
 
-pingpong game
+&nbsp;
+
+**Author:** Abhinay Omkar [@abhiomkar](http://twitter.com/abhiomkar)
